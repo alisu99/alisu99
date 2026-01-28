@@ -5,27 +5,6 @@
 
 </div>
 
----
-
-## Perfil
-
-Sou Desenvolvedor Full Stack com foco em desenvolvimento de aplicações web, APIs e integração entre frontend e backend.  
-Tenho experiência com projetos em Python e JavaScript, aplicando boas práticas de organização, versionamento e estruturação de código.
-
-Busco oportunidades onde qualidade técnica, clareza de código e aprendizado contínuo sejam prioridades.
-
----
-
-## Principais Competências
-
-- Desenvolvimento de aplicações web completas (frontend + backend)
-- Criação e consumo de APIs REST
-- Arquitetura MVC
-- Integração entre sistemas e serviços
-- Modelagem de bancos de dados relacionais
-- Versionamento e colaboração com Git
-
----
 
 ## Tecnologias
 

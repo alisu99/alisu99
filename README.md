@@ -1,7 +1,7 @@
 <div align="center">
 
 # Alisson Alencar  
-**Desenvolvedor Full Stack | Web Applications & APIs**
+**Engenheiro de Software | Web Applications & APIs**
 
 </div>
 

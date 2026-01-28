@@ -1,10 +1,9 @@
-<div align="center">
 
-# Alisson Alencar  
+
+# Alisson Gustavo Alencar Santos
 **Engenheiro de Software | Web Applications & APIs**
 
-</div>
-
+<hr>
 
 ## Tecnologias
 

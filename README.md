@@ -1,120 +1,153 @@
-<h1 align="center">Olá, eu sou Alisson Gustavo 👋</h1>
 
-<p align="center">
-  <b>Desenvolvedor Backend · Python · Django · Django REST Framework · APIs REST</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:alissonsts910@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/alisson-alencar99">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://alissongustavo.agdev.com.br">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/alisu99">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║   python manage.py runserver alisson_gustavo              ║
+║                                                           ║
+║   → Starting development server at http://localhost:8000  ║
+║   → Quit the server with CONTROL-C.                       ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
----
+# Alisson Gustavo
+### backend dev · builder de coisas que vão pra produção
 
-## 🚀 Sobre mim
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9A3&center=true&vCenter=true&width=480&lines=Python+%2B+Django+%3D+%E2%9D%A4%EF%B8%8F;APIs+que+funcionam+de+verdade.;Código+em+produção+desde+2022.;Teresina+-+PI+%7C+Remoto+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-Desenvolvedor Backend com foco em **Python**, **Django** e **Django REST Framework**, com experiência real em sistemas web escaláveis atualmente em produção — incluindo aplicação para órgão público municipal.
+<br>
 
-Especializado em:
-- Criação de **APIs RESTful** com autenticação JWT
-- Integração com bancos de dados relacionais (**PostgreSQL** e **MySQL**)
-- Deploy em ambientes **Linux/VPS**
-- Boas práticas de engenharia de software: **Clean Code**, **SOLID**, **Clean Architecture**
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alisson-alencar99)
+[![Portfolio](https://img.shields.io/badge/portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://alissongustavo.agdev.com.br)
+[![Gmail](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissonsts910@gmail.com)
 
-📍 Teresina – PI | 💼 Disponível para trabalho remoto
+</div>
+
+<br>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+<img align="right" width="340" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
-**Backend**
+## `$ whoami`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+Desenvolvedor Backend apaixonado por construir coisas que **realmente funcionam em produção**.
 
-**Banco de Dados**
+Trabalho com Python e Django desde 2022, e tenho orgulho de dizer que meus projetos não ficam só no portfólio — eles estão rodando pra prefeitura, instituições de ensino e empresas privadas.
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+Gosto de código limpo, arquitetura que faz sentido e APIs que não dão dor de cabeça em quem vai consumir.
 
-**DevOps & Infra**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**Frontend & Mobile**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<br><br><br><br>
 
 ---
 
-## 💼 Experiência Profissional
+## `$ cat stack.json`
 
-### Desenvolvedor Full Stack — Faculdade Malta *(Abril/2024 – Atual)*
-- Desenvolvimento e manutenção de **APIs RESTful** com Django e DRF para integração entre sistemas internos
-- Arquitetura e modelagem de banco de dados relacional com MySQL e SQLite, incluindo otimização de queries
-- Deploy e manutenção de aplicações em servidores **Linux/VPS**
-- Versionamento e colaboração com Git/GitHub, code review e fluxo de branches
-
-### Desenvolvedor Backend Web — Freelancer *(2022 – 2024)*
-- Entrega de sistemas web completos com Django para clientes de diferentes segmentos
-- Desenvolvimento de APIs para integração com serviços externos e automação de processos
-- Foco em desempenho, segurança e facilidade de manutenção
-
----
-
-## 🌐 Projetos em Produção
-
-| Projeto | Tecnologias | Descrição | Link |
-|--------|------------|-----------|------|
-| **Portal Juventude – SEMJUV** | Django · JavaScript · MySQL | Sistema institucional em produção para a Secretaria Municipal da Juventude de Teresina-PI | [juventude.teresina.pi.gov.br](https://juventude.teresina.pi.gov.br) |
-| **SGT – Gestão de Sinistros** | Django · JavaScript · MySQL | Sistema com validação via QR Code, geração dinâmica de PDFs e autenticação integrada | — |
-| **Faculdade Malta** | Django · JavaScript · MySQL/SQLite | Portal institucional com CRM integrado e painel administrativo | [faculdademalta.edu.br](https://faculdademalta.edu.br) |
-| **SpaceX Clone** | React · JavaScript | Recriação fiel do site da SpaceX com foco em componentização React | [Ver no GitHub](https://github.com/alisu99/spacex-clone) |
+```json
+{
+  "backend": ["Python", "Django", "DRF", "Flask", "JWT", "REST APIs"],
+  "databases": ["PostgreSQL", "MySQL", "SQLite", "SQL Server"],
+  "devops": ["Docker", "Linux", "VPS", "Git", "GitHub"],
+  "frontend": ["JavaScript", "React", "HTML5", "CSS3"],
+  "mobile": ["Dart", "Flutter"],
+  "arquitetura": ["Clean Code", "SOLID", "Clean Architecture", "MVC"]
+}
+```
 
 ---
 
-## 📊 GitHub Stats
+## `$ ls -la /projetos/producao/`
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alisu99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisu99&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
+<br>
 
----
-
-## 🎓 Formação & Certificações
-
-- 🎓 **Bacharelado em Engenharia de Software** *(em andamento)* — UNICV – Centro Universitário
-- 🎓 **Tecnólogo em Redes de Computadores** *(concluído)* — Estácio de Sá
-- 📜 Python 3 do Básico ao Avançado — Cod3r
-- 📜 Dart: assincronismo, POO, coleções e integração com APIs — Alura *(4 certificados)*
-- 📜 Administração e Segurança de Redes — Estácio de Sá
+> 🏛️ **Portal Juventude · SEMJUV Teresina**
+>
+> Sistema institucional desenvolvido pra Secretaria Municipal da Juventude da Prefeitura de Teresina-PI. Arquitetura Django escalável, pensada pra crescer junto com a demanda do órgão público.
+>
+> `Django` `JavaScript` `MySQL` → **[juventude.teresina.pi.gov.br](https://juventude.teresina.pi.gov.br)**
 
 ---
 
-<p align="center">
-  <i>Aberto a oportunidades remotas · Foco em backend Python/Django · Entrega comprovada em produção</i>
-</p>
+> 🎓 **Faculdade Malta · Site Institucional**
+>
+> Portal completo com CRM integrado e painel administrativo. Sistema com uso diário pela equipe da instituição — zero tolerância a bugs em produção.
+>
+> `Django` `JavaScript` `MySQL/SQLite` → **[faculdademalta.edu.br](https://faculdademalta.edu.br)**
+
+---
+
+> 🚗 **SGT · Sistema de Gestão de Sinistros de Trânsito**
+>
+> Validação de documentos via QR Code, geração dinâmica de PDFs e autenticação integrada. Rastreabilidade e segurança de dados como prioridade.
+>
+> `Django` `JavaScript` `MySQL`
+
+---
+
+> ⚛️ **SpaceX Clone**
+>
+> Recriação fiel do site da SpaceX, com foco em componentização e boas práticas React.
+>
+> `React` `JavaScript` → **[ver no github](https://github.com/alisu99/spacex-clone)**
+
+---
+
+## `$ git log --oneline --experience`
+
+```
+♦ Abril/2024 – Atual    Desenvolvedor Full Stack @ Faculdade Malta
+│                       APIs, banco de dados, deploy em VPS, code review
+│
+♦ 2022 – 2024           Desenvolvedor Backend @ Freelancer
+                        Sistemas web completos, automações e integrações
+```
+
+---
+
+## `$ neofetch`
+
+```
+         _____
+        /     \          alisson@backend-dev
+       | (•)(•)|         ─────────────────────────────
+        \  ▼  /          OS: Python 3.x + Django
+         |   |           Shell: Terminal Ubuntu
+        /|   |\          Uptime: desde 2022 em produção
+       / |   | \         Packages: pip install -r requirements.txt
+                         Location: Teresina - PI 🇧🇷
+                         Remote: disponível ✅
+                         
+                         Formação: Engenharia de Software (cursando)
+                         +: Tecnólogo em Redes · Estácio de Sá
+```
+
+---
+
+## `$ github stats --verbose`
+
+<div align="center">
+
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=alisu99&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisu99&layout=compact&langs_count=7&theme=radical&hide_border=true&bg_color=0d1117" />
+
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=alisu99&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+### vamos construir algo juntos?
+
+**[alissonsts910@gmail.com](mailto:alissonsts910@gmail.com)** · **[(86) 98148-9619](tel:+5586981489619)** · **[alissongustavo.agdev.com.br](https://alissongustavo.agdev.com.br)**
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=alisu99&color=00d9a3&style=flat-square&label=visitas+no+perfil)
+
+</div>

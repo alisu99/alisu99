@@ -17,43 +17,63 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=alisu99&color=00d9a3&style=flat-square&label=views" />
-
 </div>
 
 ---
 
 <div align="center">
 
-## ⚡ BACKEND
+## ⚡ STACK
 
+<table>
+<tr>
+<td align="center">
+
+### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=python,django,flask,php" />
 
-## 🗄️ DATABASES
+</td>
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-<br>
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" /><br>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
-## 🎨 FRONTEND
+</td>
+</tr>
 
+<tr>
+<td align="center">
+
+### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=js,react,html,css,bootstrap" />
 
-## 📱 MOBILE
+</td>
+<td align="center">
 
+### 📱 Mobile
 <img src="https://skillicons.dev/icons?i=dart,flutter" />
 
-## ⚙️ DEVOPS & INFRA
+</td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,redis,git,github" />
-<br>
+<tr>
+<td align="center">
+
+### ⚙️ DevOps
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,redis,git,github" /><br>
 <img src="https://img.shields.io/badge/Apache2-D22128?style=for-the-badge&logo=apache&logoColor=white" />
 
-## 🧰 TOOLS
+</td>
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,wordpress" />
-<br>
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=vscode,wordpress" /><br>
 <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -76,7 +96,7 @@
 
 <div align="center">
 
-## 🐍 CONTRIBUTION GAME
+## 🐍
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 

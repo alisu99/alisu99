@@ -1,61 +1,90 @@
 <div align="center">
 
-<h1>Alisson Gustavo</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9A3&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%2B+Django;APIs+em+Produ%C3%A7%C3%A3o+desde+2022;Teresina+-+PI+%7C+Remoto+%F0%9F%9A%80" />
-
-<br><br>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alisson-alencar99)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=vercel&logoColor=white)](https://alissongustavo.agdev.com.br)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alissonsts910@gmail.com)
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=alisu99&color=00d9a3&style=flat-square&label=visitas" />
-
-</div>
-
----
-
-## ⚡ Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,flask,postgres,mysql,docker,linux,git,react,js" />
-
-</div>
-
----
-
-## 🚀 Produção
-
-<div align="center">
-
-<a href="https://juventude.teresina.pi.gov.br">🏛️ Juventude</a> •
-<a href="https://faculdademalta.edu.br">🎓 Faculdade Malta</a> •
-🚗 SGT
-
-</div>
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=alisu99&show_icons=true&theme=radical&hide_border=true" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisu99&layout=compact&theme=radical&hide_border=true" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d9a3&height=180&section=header&text=Alisson%20Gustavo&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 
 <br>
 
-<img height="150em" src="https://streak-stats.demolab.com?user=alisu99&theme=radical&hide_border=true" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00D9A3&center=true&vCenter=true&width=600&lines=Backend+Engineer;Python+%2B+Django;Production+First;APIs+that+scale" />
+
+<br><br>
+
+<a href="https://linkedin.com/in/alisson-alencar99">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://alissongustavo.agdev.com.br">
+  <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=alisu99&color=00d9a3&style=flat-square&label=views" />
 
 </div>
 
 ---
 
-## 🧠
+<div align="center">
+
+## ⚡ BACKEND
+
+<img src="https://skillicons.dev/icons?i=python,django,flask,php" />
+
+## 🗄️ DATABASES
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<br>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+## 🎨 FRONTEND
+
+<img src="https://skillicons.dev/icons?i=js,react,html,css,bootstrap" />
+
+## 📱 MOBILE
+
+<img src="https://skillicons.dev/icons?i=dart,flutter" />
+
+## ⚙️ DEVOPS & INFRA
+
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,redis,git,github" />
+<br>
+<img src="https://img.shields.io/badge/Apache2-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+
+## 🧰 TOOLS
+
+<img src="https://skillicons.dev/icons?i=vscode,wordpress" />
+<br>
+<img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 STATS
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=alisu99&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisu99&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+
+<br>
+
+<img height="160em" src="https://streak-stats.demolab.com?user=alisu99&theme=radical&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 CONTRIBUTION GAME
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
 
 ```bash
-build APIs → scale → deploy → repeat
+build → scale → deploy

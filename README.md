@@ -11,12 +11,13 @@
 <a href="https://linkedin.com/in/alisson-alencar99">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://alissongustavo.agdev.com.br">
   <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br><br>
-
+<p>Sou desenvolvedor backend e me aventuro também no frontend! Formado em Redes de Computadores pela estácio e formando em Engenharia de Software pela UNICV, sou apaixonado pelo que faço e busco sempre aprender mais!</p>
 </div>
 
 ---

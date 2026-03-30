@@ -23,7 +23,7 @@
 
 <div align="center">
 
-## ⚡ STACK
+### ⚡ STACKS
 
 <table>
 <tr>
@@ -81,7 +81,7 @@
 
 <div align="center">
 
-## 📊 STATS
+### 📊 STATS
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alisu99&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisu99&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />

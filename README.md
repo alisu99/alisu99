@@ -83,9 +83,6 @@
 
 ### 📊 STATS
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=alisu99&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisu99&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
-
 <br>
 
 <img height="160em" src="https://streak-stats.demolab.com?user=alisu99&theme=radical&hide_border=true&background=0D1117" />
@@ -96,7 +93,6 @@
 
 <div align="center">
 
-## 🐍
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
